@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: unlitTexture 1
+  m_Shader: {fileID: 4800000, guid: 530b54294cab3064b8166fad4d5900c4, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 47c82777887e3fc46bc141849b1b3ccb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0.4, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Intensity: 0.315
+    m_Colors:
+    - _Scroll: {r: 0.2, g: 0.05, b: 0, a: 0}
+    - _Tint: {r: 0.79942244, g: 1, b: 0.68867916, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

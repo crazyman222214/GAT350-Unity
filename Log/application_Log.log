@@ -1,0 +1,210 @@
+2024-11-13 10:48:00 [INFO] AnycubicPhotonWorkshop start!
+2024-11-13 10:48:00 [INFO] argc:  2
+2024-11-13 10:48:00 [WARN] "C:/Program Files/AnycubicPhotonWorkshop"
+2024-11-13 10:48:00 [WARN] Successfully init crashpad
+2024-11-13 10:48:01 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-11-13 10:48:01 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-11-13 10:48:01 [INFO] ctk manager plugins:  "C:/Program Files/AnycubicPhotonWorkshop/plugins/"
+2024-11-13 10:48:01 [INFO] Load plugin org.commontk.eventadmin success.
+2024-11-13 10:48:01 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/splashwindow.dll"
+2024-11-13 10:48:01 [INFO] Install Plugin Success!
+2024-11-13 10:48:02 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-11-13 10:48:02 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-11-13 10:48:02 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/printer.dll"
+2024-11-13 10:48:02 [INFO] Install Plugin Success!
+2024-11-13 10:48:02 [FATAL] readDataFromFile (C:/Program Files/AnycubicPhotonWorkshop/machine_type/Anycubic Photon Mono M7.pwsp) is error.
+2024-11-13 10:48:02 [FATAL] loadFactoryMachine factory market Anycubic Photon Mono M7 msg retcode -1, msg retmsg: 
+2024-11-13 10:48:02 [WARN] loadMachineResin currentPrinter(Anycubic Photon Mono 2) init success.
+2024-11-13 10:48:02 [INFO] loadMachineParamRange is success.
+2024-11-13 10:48:02 [INFO] loadMachineResinType is success.
+2024-11-13 10:48:02 [INFO] loadMachineResinName is success.
+2024-11-13 10:48:02 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/mainwindow.dll"
+2024-11-13 10:48:02 [INFO] Install Plugin Success!
+2024-11-13 10:48:03 [INFO] "current server is testserver. 0"
+2024-11-13 10:48:03 [INFO] QVariant(QByteArray, "mqtt.anycubic.com")
+2024-11-13 10:48:03 [INFO] QVariant(QByteArray, "mqtt-universe.anycubic.com")
+2024-11-13 10:48:03 [INFO] QVariant(QByteArray, "8883")
+2024-11-13 10:48:03 [INFO] QVariant(QByteArray, "8883")
+2024-11-13 10:48:03 [INFO] "environment_url is https://workbentch.s3.us-east-2.amazonaws.com/workshop/environment.ini"
+2024-11-13 10:48:03 [INFO] QmlFactory 0.263 s
+2024-11-13 10:48:03 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/autoupdater.dll"
+2024-11-13 10:48:03 [INFO] Install Plugin Success!
+2024-11-13 10:48:03 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/gareport.dll"
+2024-11-13 10:48:03 [INFO] Install Plugin Success!
+2024-11-13 10:48:04 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/accloud.dll"
+2024-11-13 10:48:04 [INFO] Install Plugin Success!
+2024-11-13 10:48:04 [WARN] void __cdecl ACCloudNetRequest::init(void), cn_server = mqtt.anycubic.com, cn_server_port = 8883, en_server = mqtt-universe.anycubic.com, en_server_port = 8883, url = https://cloud-universe.anycubic.com/p/p/workbench/api
+2024-11-13 10:48:04 [WARN] CountriesDataModel::setCurrCountryIdn, newCurrCountryIdn = CN
+2024-11-13 10:48:04 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-11-13 10:48:04 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-11-13 10:48:04 [WARN] ACCloudManager::ACCloudManager, cloud model, build_time = 2024-04-26 17:28:45, git_brance = feat/casdoor, git_hash = 6b20758, git_commit = 2024-04-26
+2024-11-13 10:48:04 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/facegen.dll"
+2024-11-13 10:48:04 [INFO] Install Plugin Success!
+2024-11-13 10:48:04 [WARN] Translation::changedSystemLanguage, language = 0
+2024-11-13 10:48:04 [WARN] register  GizmoController
+2024-11-13 10:48:05 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-11-13 10:48:07 [WARN] enableMenuShortcut menushort cut: 0
+2024-11-13 10:48:07 [INFO] uiState:  false
+2024-11-13 10:48:07 [WARN] enableMenuShortcut menushort cut: 0
+2024-11-13 10:48:07 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:07 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:07 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:07 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:07 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:07 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:08 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:08 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:08 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:08 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:08 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:08 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:08 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:08 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:08 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:08 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:08 [WARN] xChanged 1
+2024-11-13 10:48:08 [INFO] event:  "splash_window_visible" data:  QVariant(bool, false) extentionData:  QVariant(Invalid)
+2024-11-13 10:48:08 [INFO] event:  "main_load" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-11-13 10:48:08 [INFO] event:  "main_language_changed" data:  QVariant(int, 0) extentionData:  QVariant(Invalid)
+2024-11-13 10:48:08 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 240
+2024-11-13 10:48:08 [INFO] uiState:  true
+2024-11-13 10:48:08 [WARN] creating renderer
+2024-11-13 10:48:08 [WARN] printer valid --:  71.68 44.55
+2024-11-13 10:48:08 [WARN] printer build --:  71.68 44.8
+2024-11-13 10:48:08 [WARN] deltaX -- :  0
+2024-11-13 10:48:08 [WARN] deltaY -- :  0.25
+2024-11-13 10:48:08 [WARN] machine boarder width 1--------------------  0 0.25
+2024-11-13 10:48:08 [WARN] create planar shadow node
+2024-11-13 10:48:08 [WARN] loadGizmoRotationHead OK 576
+2024-11-13 10:48:08 [INFO]  camera_manipulator::home
+2024-11-13 10:48:08 [INFO]  camera_manipulator::home/ComputeBound
+2024-11-13 10:48:08 [INFO]  camera_manipulator::home
+2024-11-13 10:48:08 [INFO]  camera_manipulator::home/ComputeBound
+2024-11-13 10:48:08 [INFO]  camera_manipulator::home/BoundingSphere
+2024-11-13 10:48:08 [INFO]  camera_manipulator::home/udpate_view
+2024-11-13 10:48:08 [WARN] GL Verison:  0x7ff8665338b8
+2024-11-13 10:48:08 [WARN] GL Renderer:  0x25d77815390
+2024-11-13 10:48:08 [WARN] compile shader program ok
+2024-11-13 10:48:08 [WARN] compile shader program ok
+2024-11-13 10:48:08 [WARN] compile shader program ok
+2024-11-13 10:48:08 [WARN] AnyGizmos::Im3d_Init      LoadCompileShader Ok
+2024-11-13 10:48:08 [WARN] AnyGizmos::Im3d_Init   VAO release Ok
+2024-11-13 10:48:09 [WARN] void __cdecl ACCloudNetRequest::autoLogin(enum UserInfo::LoginMethod)
+2024-11-13 10:48:09 [WARN] void __cdecl ACCloudNetRequest::login(const class QString &,const class QString &,const class QString &,const class QString &,enum UserInfo::LoginMethod)
+username = cschade@student.neumont.edu, password = Smartypants2, country = CN, loginMethod = 0, accountType = 1
+2024-11-13 10:48:09 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:09 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:09 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:09 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:09 [INFO] event:  "updater_init_compeleted" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-11-13 10:48:09 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:09 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:09 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:09 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:09 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-11-13 10:48:09 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-11-13 10:48:09 [INFO] send post data success!
+2024-11-13 10:48:09 [INFO] event:  "accloud_start_init" data:  QVariant(int, 0) extentionData:  QVariant(int, 0)
+2024-11-13 10:48:09 [INFO] "start check autoUpdater!"
+2024-11-13 10:48:09 [INFO] event:  "updater_check" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-11-13 10:48:09 [WARN] void __cdecl ACCloudNetRequest::onEvent(struct NetworkRequest::EventData)
+, event.event = 13, status = 0, code = 1, msg = Login successful
+2024-11-13 10:48:09 [WARN] void __cdecl ACCloudNetRequest::onLoginResult(void)
+nickName = SlimSchade
+2024-11-13 10:48:09 [WARN] void __cdecl ACCloudNetRequest::getFileList(const struct FileListRequest *)
+page = 1, limit = 50, fileType = 0, orderby = 1, machine_type = 0, loginStatus = 1
+2024-11-13 10:48:09 [WARN] void __cdecl MyFileListModel::onLoginResult(void)
+2024-11-13 10:48:09 [WARN] void __cdecl PrintersDataModel::onLoginResult(void)
+2024-11-13 10:48:09 [WARN] void __cdecl PrintersDataModel::setupCloudEvent(void)
+m_networkStatus = 1
+2024-11-13 10:48:09 [WARN] void __cdecl ACCloudNetRequest::setupCloudEvent(void), -- 1
+2024-11-13 10:48:09 [WARN] void __cdecl ACCloudNetRequest::setupCloudEvent(void), -- 2
+2024-11-13 10:48:09 [WARN] void __cdecl ACCloudNetRequest::getMessageCount(void)
+2024-11-13 10:48:09 [WARN] void __cdecl ACCloudNetRequest::getMessageList(int,int,int)
+msgtype = 1, pageIndex = 1, pageSize = 1
+2024-11-13 10:48:09 [WARN] void __cdecl CloudMsgNotifyListModel::onLoginResult(void)
+2024-11-13 10:48:09 [WARN] void __cdecl ACCloudGaSupport::doReportLoginResult(const class QString &,const class QString &,const bool &,const class QString &)
+loginType = auto_login, loginMethod = email, isSuccess = 1, failReason = Login successful
+2024-11-13 10:48:09 [WARN] void __cdecl ACCloudManager::onLoginResult(void), nickName = SlimSchade, userId = 127471, doReportLoginResult finish
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct MessageListResponse *,unsigned int,unsigned int,unsigned int,unsigned int)
+2024-11-13 10:48:10 [WARN] void __cdecl ACCloudNetRequest::onMessageListResponse(const struct MessageListResponse *,int,int,int,int)
+count = 0, pageIndex = 1, pageSize = 50, countAll = 0
+2024-11-13 10:48:10 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct MessageCountResponse *,unsigned int)
+2024-11-13 10:48:10 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] void __cdecl PrinterEventHandlerCallback::event(const struct Anycubic::Event *)
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:10 [WARN] QFSFileEngine::open: No file name specified
+2024-11-13 10:48:10 [WARN] Cannot open file '', because: No file name specified
+2024-11-13 10:48:11 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"\xE7\x9B\x90\xE6\xB9\x96\xE5\x9F\x8E\",\n    \"country\": \"\xE7\xBE\x8E\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"AppStart\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"11b442986d0be9034bd93746310f3c03\",\n    \"printerType\": \"\",\n    \"province\": \"\xE7\x8A\xB9\xE4\xBB\x96\",\n    \"timestamp\": 1731520091,\n    \"title\": \"\",\n    \"userId\": 127471\n}\n"
+2024-11-13 10:48:11 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"\xE7\x9B\x90\xE6\xB9\x96\xE5\x9F\x8E\",\n    \"country\": \"\xE7\xBE\x8E\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"LoginResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"11b442986d0be9034bd93746310f3c03\",\n    \"printerType\": \"\",\n    \"province\": \"\xE7\x8A\xB9\xE4\xBB\x96\",\n    \"timestamp\": 1731520091,\n    \"title\": \"\",\n    \"userId\": 127471\n}\n"
+2024-11-13 10:48:11 [WARN] CloudMsgNotifyListModel::onMessageListResponse, count = 0, pageIndex = 1, pageSize = 50, countAll = 0
+2024-11-13 10:48:11 [WARN] MyFileListModel::onFileLists, pageIndex = 1, pageSize = 50, countAll = 0, size = 0
+2024-11-13 10:48:11 [WARN] void __cdecl CloudMsgNotifyListModel::onMessageCountResponse(const struct MessageCountResponse *,int), count = 3
+2024-11-13 10:48:11 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 240
+2024-11-13 10:48:11 [WARN] void __cdecl PrintersDataModel::onPrinterCommonEvent(const struct Anycubic::Event *)
+code = 0, action = 500, status = 0, type = 20, errMsg = Unknown Reason, state = 
+2024-11-13 10:48:11 [WARN] void __cdecl PrintersDataModel::getListPrinter(void)
+m_printersTableStatus = 0, m_cloudNetRequest->userInfo()->loginStatus() = 0
+2024-11-13 10:48:11 [WARN] void __cdecl ACCloudNetRequest::getListPrinter(void)
+LOGIN_STATUS = 0
+2024-11-13 10:48:11 [INFO] uiState:  false
+2024-11-13 10:48:11 [INFO] send post data success!
+2024-11-13 10:48:11 [WARN] void __cdecl PrintersDataModel::onPrinterListEvent(void *,int,void *)
+count = 0
+2024-11-13 10:48:11 [INFO] send post data success!
+2024-11-13 10:48:14 [INFO] uiState:  true
+2024-11-13 10:48:17 [INFO] scene modifyed:  false
+2024-11-13 10:48:17 [INFO] save support file is success!
+2024-11-13 10:48:18 [INFO] AnycubicPhotonWorkshop end!
+2024-11-13 10:48:18 [WARN] QThreadStorage: Thread 0x25d74bf7490 exited after QThreadStorage 7 destroyed
